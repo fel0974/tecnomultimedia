@@ -1,0 +1,12 @@
+E L   R O B O
+Mauricio un hombre de 32 años Argentino decide llevar acabo un plan para lograr robar un banco junto sus ex compañeros de la escuela.
+Llegado el día del Robo el usuario tiene que elegir con que vestimenta va a entrar el equipo al banco.
+Estas son = vestidos como transeúntes que solo van al banco como cualquier otro y sin violencia es decir sin golpear a nadie.
+otra opción es ingresar ya vestidos como asaltantes y de una forma violenta.
+Una vez en el banco al equipo se le presenta un problema, el cual se debe decidir que hacer. Una persona intenta escapar, por lo cual
+hay que decidir que hacer, si matarlo o dejarlo vivir. Matarlo sería algo erróneo ya que son ladrones y no asesinos, si la persona escapa
+ellos lo verían como un problema menor ya que lo importante es llevar a cabo el plan y próximamente decidir como huir si en un helicóptero 
+o simulando a ser trabajadores que junten basura y escapar con el dinero adentro de un camión de basura. Finalmente los asaltantes logran su 
+Cometido y se hacen millonarios.
+
+
